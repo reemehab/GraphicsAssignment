@@ -1,4 +1,4 @@
-Implementin Some simple Shapes using C++ win32
+Implementing Some simple Shapes using C++ win32
 in A1 it was required to draw 2 circle by filling their in between with circles and removing a quarter from all circles with 3 input clicks 
 1-center of 2 circles 
 2-Second one is a point on first circle
