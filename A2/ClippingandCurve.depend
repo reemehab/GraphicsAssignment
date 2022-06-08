@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1652360869 source:d:\level3\cg\assigments\2\clippingandcurve\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+	<iostream>
+

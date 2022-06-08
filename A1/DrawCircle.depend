@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1653769563 source:d:\level3\cg\assigments\1\drawcircle\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+	<iostream>
+
